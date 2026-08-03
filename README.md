@@ -56,3 +56,8 @@
 - 商户入驻与菜品上架管理
 - 菜品分类与搜索功能
 - 菜品营养信息展示
+
+## AI聊天助手演示
+<img src="[图片UR](https://github.com/jiasuxie92-jpg/Easy_Campus/edit/main/docs/chat_1.png)L" alt="图片描述" width="500" height="300">
+<img src="[图片UR](https://github.com/jiasuxie92-jpg/Easy_Campus/edit/main/docs/chat_2.png)L" alt="图片描述" width="500" height="300">
+<img src="[图片UR](https://github.com/jiasuxie92-jpg/Easy_Campus/edit/main/docs/chat_3.png)L" alt="图片描述" width="500" height="300">
