@@ -58,6 +58,22 @@
 - 菜品营养信息展示
 
 ## AI聊天助手演示
-<img src="[图片UR](https://github.com/jiasuxie92-jpg/Easy_Campus/edit/main/docs/chat_1.png)L" alt="图片描述" width="500" height="300">
-<img src="[图片UR](https://github.com/jiasuxie92-jpg/Easy_Campus/edit/main/docs/chat_2.png)L" alt="图片描述" width="500" height="300">
-<img src="[图片UR](https://github.com/jiasuxie92-jpg/Easy_Campus/edit/main/docs/chat_3.png)L" alt="图片描述" width="500" height="300">
+<table>
+  <tr>
+    <td align="center">
+      <img src="./docs/chat_1.png" alt="智能客服对话1" width="300">
+      <br>
+      <em>图1：智能客服初始对话</em>
+    </td>
+    <td align="center">
+      <img src="./docs/chat_2.png" alt="智能客服对话2" width="300">
+      <br>
+      <em>图2：餐食记录功能</em>
+    </td>
+    <td align="center">
+      <img src="./docs/chat_3.png" alt="智能客服对话3" width="300">
+      <br>
+      <em>图3：菜品推荐功能</em>
+    </td>
+  </tr>
+</table>
